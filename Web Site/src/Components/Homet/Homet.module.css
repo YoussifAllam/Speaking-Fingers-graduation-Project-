@@ -1,0 +1,72 @@
+.bodyy {
+  height: 700px;
+  background-image: linear-gradient(45deg, #13d1d5, #0172d1);
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  /* flex-direction: column; */
+}
+.homeimg2 {
+  margin-top: 30px !important;
+  margin-left: 127px !important;
+}
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "slnt" 0;
+}
+
+.homepara1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  margin-top: 75px !important;
+
+  margin-left: 60px !important;
+  width: 105%;
+}
+
+.homepara2 {
+  margin-top: 30px !important;
+  margin-left: 60px !important;
+  color: white;
+  font-size: 18px;
+  width: 100%;
+}
+.lightfont {
+  font-weight: lighter;
+  margin-left: 60px !important;
+  margin-top: 10px !important;
+  width: 100%;
+  color: white;
+}
+.btnhome {
+  margin-left: 250px !important;
+  margin-top: 45px !important;
+  background-color: #37ceef !important;
+  padding: 8px 20px !important;
+  font-family: "Inter", sans-serif !important;
+  color: white !important;
+  border: 2px white solid !important;
+}
+@media screen and (max-width: 768px) {
+  .col-md-6 {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .col-md-6 {
+    width: 100%;
+    margin-bottom: 20px; /* إضافة هامش بين العناصر */
+  }
+
+  .col-md-6:nth-child(odd) {
+    order: 2; /* تغيير ترتيب العمود */
+  }
+
+  .col-md-6:nth-child(even) {
+    order: 1; /* تغيير ترتيب العمود */
+  }
+}

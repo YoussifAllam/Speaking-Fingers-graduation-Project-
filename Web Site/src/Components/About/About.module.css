@@ -1,0 +1,41 @@
+.bodyy {
+  background-color: white;
+  position: absolute;
+  margin-left: 60px !important;
+}
+.paras {
+  padding-left: 60px !important;
+  font-size: 20px;
+  /* margin-left: 20px !important; */
+}
+.footer {
+  background-color: white !important;
+  position: relative;
+  bottom: 100px;
+  left: 0;
+}
+
+.list1 {
+  margin: 0 120px !important;
+  font-size: 16;
+  font-weight: 300;
+}
+.list2 {
+  margin: 0 80px !important;
+  font-size: 16;
+  font-weight: 300;
+}
+.logo {
+  margin-left: 15px !important;
+}
+.copyright {
+  font-size: 12px;
+}
+.word {
+  font-weight: bold;
+}
+.pic {
+  padding-left: 150px !important;
+  padding-top: 40px !important;
+
+}

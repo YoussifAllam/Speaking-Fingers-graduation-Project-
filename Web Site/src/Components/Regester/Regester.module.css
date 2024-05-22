@@ -1,0 +1,27 @@
+.color2{
+    /* width: 600px; */
+    Width:
+    800px !important;
+    Height:
+    550px !important;
+    background-color:#0caed438 !important;
+    margin-top: 45px !important;
+    border: 2px solid black !important;
+  
+    padding-bottom: 60px !important;  padding-right: 60px !important;  padding-left: 60px !important;
+    border-radius: 2% !important;
+    padding-top: 50px!important;
+  margin-right: 30px !important;
+  } 
+  
+  .button{
+    background-color:#0caed4 !important;
+    color: white !important;
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    border-radius: 8px !important;
+    border: none !important;  
+  }
+  .container{
+    margin-left: 50px !important;
+  }

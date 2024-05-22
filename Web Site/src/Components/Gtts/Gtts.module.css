@@ -1,0 +1,50 @@
+.audio-player {
+  color: red !important;
+}
+.audioControl {
+  margin-left: 90px !important;
+  margin-top: 10px !important;
+  width: 505px;
+}
+
+.heading {
+  margin-top: 20px !important;
+  margin-left: 135px !important;
+}
+.para {
+  margin-left: 135px !important;
+  margin-bottom: 20px !important;
+  margin-top: 8px !important;
+  font-size: 20px;
+}
+.pic {
+  margin-left: 70px !important;
+  margin-top: 20px !important;
+  width: 550px;
+}
+.area {
+  margin-left: 90px !important;
+}
+.part2 {
+}
+.labeltext {
+  font-size: 22px;
+  font-weight: bold !important;
+  margin-left: 90px !important ;
+}
+.convertbtn {
+  background-color: #37ceef !important;
+  padding: 8px 20px !important;
+  border: 1px solid black;
+  color: black;
+  font-weight: bold;
+  margin-top: 20px !important;
+  margin-left: 300px !important;
+}
+.clearbtn {
+  border: none;
+  background-color: transparent;
+  position: absolute;
+  bottom: 445px;
+  right: 130px;
+}
